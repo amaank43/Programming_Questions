@@ -31,3 +31,7 @@ Explanation:
 Constraints:
 0 <= n <= 30
 '''
+'''
+Given:
+def solve(n):
+'''
