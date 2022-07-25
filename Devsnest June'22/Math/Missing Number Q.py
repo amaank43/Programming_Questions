@@ -32,3 +32,8 @@ All the numbers of arr are unique.
 Expected Time complexity: O(n)
 Expected Space Complexity: O(1)
 '''
+'''
+Given:
+def solve(n, arr):
+    # CODE HERE
+'''    
