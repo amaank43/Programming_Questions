@@ -31,3 +31,8 @@ Constraints
 Expected Time Complexity: O(1)
 Expected Space Complexity: O(1)
   '''
+'''
+Given :
+def solve(a, b):
+   # CODE HERE
+'''
