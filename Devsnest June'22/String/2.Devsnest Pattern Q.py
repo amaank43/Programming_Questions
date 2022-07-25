@@ -26,3 +26,9 @@ Constraints
 15 < N < 303
 M is an odd natural number, and N is 3 times M.
 '''
+
+'''
+Given 
+def solve(M, N):
+    # CODE HERE
+'''    
