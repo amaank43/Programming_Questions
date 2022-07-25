@@ -30,3 +30,8 @@ Constraints
 Expected Time Complexity: O(n)
 Expected Space Complexity: O(n)
 '''
+'''
+Given:
+def solve(n):
+   # CODE HERE
+'''   
