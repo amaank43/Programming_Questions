@@ -8,8 +8,10 @@ Output:
     "Hello, Mac!"
 Explanation:
     Given a String, Mac is Concatenated with string "Hello, " at the beginning and "!" at the end
+'''
 
-Code:
+'''
+Given:
 def solve(str):
    # CODE HERE    
 '''
