@@ -1,4 +1,4 @@
-Link:https://devsnest.in/algo-challenges/next-permutation?tab=question
+# Link:https://devsnest.in/algo-challenges/next-permutation?tab=question
     
 def solve(n, nums):
     # CODE HERE
