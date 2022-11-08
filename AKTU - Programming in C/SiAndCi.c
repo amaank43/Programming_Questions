@@ -1,4 +1,4 @@
-WAP to find CI and SI the principle amount rate of interest and time is provided by user.
+//WAP to find CI and SI the principle amount rate of interest and time is provided by user.
 
 #include<stdio.h>
 #include<conio.h>
