@@ -1,0 +1,15 @@
+<!--https://devsnest.in/frontend-challenges/javascript/js-fetch-api/208-->
+
+// you're give an async function getData and a url as its parameter
+// you have to send a GET request to the url using fetch API
+// and return the response in json format from the
+// async function getData
+
+async function getData(url) {
+	// code here
+    const res = await fetch(url) ;
+    return res.json();
+}
+
+
+try { module.exports = { getData } } catch(e) {}
