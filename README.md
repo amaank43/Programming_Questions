@@ -1,2 +1,2 @@
 # Coding-Problems
-Python | C | Java
+Python
