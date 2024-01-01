@@ -16,6 +16,7 @@ int main()
     scanf("%s",s)   ;
     scanf("\n");
     scanf("%[^\n]%*c",sen)   ;
+//  scanf(" %[^\n]%*c",c)
     printf("%c\n",ch);
     printf("%s\n",s);
     printf("%s",sen);
