@@ -17,7 +17,7 @@ int main() {
 int max_of_four(int l,int m,int n,int o){
     if(l>m && l>n && l>o)
         return l;
-    else if (m>l && m>n && l>o)
+    else if (m>l && m>n && m>o)
         return m;
     else if (n>l && n>m && n>o)
         return n;
