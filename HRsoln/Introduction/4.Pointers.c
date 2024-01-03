@@ -3,9 +3,7 @@
 #include <stdio.h>
 
 void update(int *a,int *b) {
-    // Complete this function    
-    *a = 9;
-    *b = 1;
+
     
 }
 
