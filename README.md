@@ -1,2 +1,1 @@
-# Coding-Problems
-Python | C
+# Coding-Problems for interviews
